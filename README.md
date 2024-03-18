@@ -1,5 +1,5 @@
 # Unsupervised Learning - Clustering
-[Code](https://github.com/SoumyaO/imdb-pca-clustering/tree/main/code) | [Data](https://github.com/SoumyaO/imdb-pca-clustering/tree/main/data) | [Report](https://github.com/SoumyaO/imdb-pca-clustering/blob/main/Report_Group%208_Group%20CW%202.pdf)
+[Code](https://github.com/SoumyaO/imdb-pca-clustering/tree/main/code) | [Data](https://github.com/SoumyaO/imdb-pca-clustering/tree/main/data) | [Report](https://github.com/SoumyaO/imdb-pca-clustering/blob/main/Report.pdf)
 
 ### Contributors
 [Soumya Ogoti](https://github.com/SoumyaO)  
