@@ -11,7 +11,7 @@
 ## Description
 This project involved applying unsupervised learning techniques for clustering movies from the IMDB dataset. The python libraries Sklearn, Pandas, Matplotlib and Seaborn were used for this analysis. The interplay between run time of movies, the number of votes and ratings and its effect on the revenue that the movie generated was investigated.
 
-Data pre=processing involved handling missing values and standardising numerical features.
+Data pre-processing involved handling missing values and standardising numerical features.
 Prinicpal component analysis (PCA) was performed on the dataset to identify the components that account for the most variance in the data. In order to determine how strongly each feature influences the principal components, biplots were used.
 
 The data was clustered using k-means and heiracrical clustering. For k-means clustering elbow method was used to get a rough estimate of k (=3). However, with this value, the cluster boundaries were not well defined. To address this sihouette analysis was done which resulted in k=2. This resulted in better defined clusters. It can be seen that movies with shorter runtimes, lower ratings and votes, and lesser revenue form a cluster. This findings indicate that shorter movies with less popularity generate less revenue.
